@@ -5,13 +5,9 @@ Nous avons mis sur ce repository l'ensemble des ressources utilisées pour ce pr
 Vous trouverez :
 
 - le notebook "Prédiction du cancer du sein par ML" utilisée pour la partie Data Science
-- le fichier de sauvergarde du modèle choisie ""
+- le fichier de sauvergarde du modèle choisie "trained_model.sav"
 - Le fichier "Cancer Prediction web app.py" utilisée pour le deploiement en local du modèle
 - Le fichier  "dockerfile.dockerfile"   pour la création des images et conteneurs Docker
-- 
-
-
-
 
 Lien vers binder vers le notebook python:
 
