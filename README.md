@@ -6,7 +6,7 @@ Vous trouverez :
 
 - le notebook "Prédiction du cancer du sein par ML" utilisée pour la partie Data Science
 - le fichier de sauvergarde du modèle choisie ""
-- Le fichier "" utilisée pour le deploiement en local du modèle
+- Le fichier "Cancer Prediction web app.py" utilisée pour le deploiement en local du modèle
 - Le fichier  "dockerfile.dockerfile"   pour la création des images et conteneurs Docker
 - 
 
